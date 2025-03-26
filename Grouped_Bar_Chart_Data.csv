@@ -1,0 +1,7 @@
+location,stringency_index,total_cases_per_million,total_deaths_per_million,hospital_beds_per_thousand,population
+Afghanistan,0.0,5796.47,197.1,0.5,41128772
+Brazil,0.0,178367.94,3338.54,2.2,215313504
+France,0.0,606706.0,2615.09,5.98,67813000
+Germany,0.0,457123.1,2080.95,8.0,83369840
+India,0.0,31598.86,374.36,0.53,1417173120
+United States,0.0,302859.5,3493.55,2.77,338289856
